@@ -1,0 +1,13 @@
+<body class="body2">
+  <div class="front">
+
+    <button  mat-raised-button color="accent" ><b>Pratik Hotel</b></button>&nbsp;
+    <button mat-raised-button color="primary" (click)="Journey('Admin')" >Admin</button>&nbsp;
+    <button mat-raised-button color="warn" (click)="Journey('Owner')" >Owner</button>&nbsp;
+    <button mat-raised-button color="primary" (click)="Journey('User')" >User</button>
+
+    <router-outlet></router-outlet>
+    <img id="back" src="../assets/img/Entrada-hotel front.jpg" height="100%" width="100%" >
+
+  </div>
+</body>

@@ -1,0 +1,71 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "userName": "Pratik",
+      "userEmail": "pratik@12gamil.com",
+      "userMob": "9011742609",
+      "gender": "male",
+      "userPass": "Pratik123"
+    },
+    {
+      "userName": "Aaliya",
+      "userMob": "9860908859",
+      "userEmail": "aaliya@77Gmail.com",
+      "userPass": "23234565",
+      "gender": "female",
+      "userCheck": true,
+      "id": 2
+    },
+
+    {
+      "userName": "Rashmika",
+      "userMob": "8989999988",
+      "userEmail": "rashu@123",
+      "userPass": "Rashu123",
+      "gender": "female",
+      "userCheck": true,
+      "id": 3
+    }
+  ],
+  "owner": [
+    {
+      "userName": "Disha",
+      "userMob": "9860908859",
+      "userEmail": "disha@77Gmail.com",
+      "userPass": "Dishah1",
+      "gender": "female",
+      "userCheck": true,
+      "id": 1
+    },
+    {
+      "userName": "Katrina",
+      "userMob": "12345678",
+      "userEmail": "kat@gmail.com",
+      "userPass": "Kat1",
+      "gender": "female",
+      "userCheck": true,
+      "id": 2
+    },
+    {
+      "userName": "Sonali",
+      "userMob": "22222",
+      "userEmail": "ss@gmail.com",
+      "userPass": "1111",
+      "gender": "male",
+      "userCheck": true,
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "userName": "Shreya",
+      "userMob": "9860908859",
+      "userEmail": "shry@77Gmail.com",
+      "userPass": "12345678",
+      "gender": "female",
+      "userCheck": true,
+      "id": 1
+    }
+  ]
+}
